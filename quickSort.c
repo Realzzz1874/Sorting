@@ -1,3 +1,5 @@
+// 快速排序，时间复杂度平均为O(nlgn)，最坏为O(n^2)
+
 #include<stdio.h>
 #include<stdlib.h>
 #define BUF_SIZE 10
